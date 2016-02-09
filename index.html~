@@ -23,28 +23,8 @@
             alt="Brad Miller">
 
 		<br><br>
-        <i>"It needs to be purple velvet."</i>
+        <h4>"It needs to be purple velvet."</h4>
      
-    </div>
-
-
-    <div class="color1">
-      <div class="pad container">
-        <div class="col-md-8 bio">
-          <h1>Who am I?</h1>
-          <p>The Answer is Brad</p>
-          <br>
-        </div>
-        <div class="col-md-4 text-center">
-         Choir
-        </div>
-      </div>
-    </div>
-
-    <div class="color2">
-      <div class="pad container">
-	It's not your fault but it is your problem 
-      </div>
     </div>
 
     <div class="color3">
