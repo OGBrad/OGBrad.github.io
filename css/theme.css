@@ -30,10 +30,6 @@ body {
   color:white;
 	font-size:2em;
 }
-.blackM {
-	background-color: black;
-  color: #CCBA38;
-}
 .black {
 	background-color: black;
   color: #38BDCC;
@@ -54,6 +50,7 @@ body {
 
 .quote{
 	padding-top:2em;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 /*Image and links in welcome section*/

@@ -9,7 +9,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
-	<link href='https://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Patua+One|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
   </head>
   <body>
 
@@ -36,14 +36,17 @@
             </div>
 
           <div class="quotes">
-            <div class="quote col-xs-3 col-xs-offset-2 text-left">
+            <div class="quote col-xs-12 text-center">
+              "It's not your fault, but it is your problem. "
+            </div>
+            <div class="quote col-xs-3 col-xs-offset-1 text-left">
               Questions are the enemy of progress 
             </div>
             <div class="quote col-xs-11 text-right">
               Hey Choir!
             </div>
             <div class="quote col-xs-9 text-center">
-              You sound like a Moscato and you need to sound like a Merlot...
+              You sound like a Moscato, but you need to sound like a Merlot...
             </div>
             <div class="quote col-xs-12 text-right">
               I wish I came up with this
