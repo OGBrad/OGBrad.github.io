@@ -25,9 +25,10 @@ body {
 .velvet{
 	color:white;
 }
-.color1 {
+.color3 {
   background-color: #23074A;
   color:white;
+	font-size:2em;
 }
 .blackM {
 	background-color: black;
@@ -37,16 +38,22 @@ body {
 	background-color: black;
   color: #38BDCC;
 }
-.color3 {
+.color1 {
 	background-color: #8843E8;
 	color:white;
+	font-size:2em;
 }
 .color2 {
   background-color: #AE1CE8;
 	color: white;
 }
 .color4 {
-	color:#F4FA58;
+	background-color:black;
+}
+
+
+.quote{
+	padding-top:2em;
 }
 
 /*Image and links in welcome section*/
